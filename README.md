@@ -1,4 +1,4 @@
-# React Frameworks Assignment – AD311
+# React Frameworks Assignment
 
 This project is for AD311. The goal was to build the same basic idea using four different React frameworks so I could understand how each one works in real development.
 
